@@ -45,7 +45,6 @@ Welcome to RoboSpeaker 1.01
 Enter what you want me to speak: Hello, world!
 ```
 
-Certainly! Here's an additional section you can include:
 
 ---
 
